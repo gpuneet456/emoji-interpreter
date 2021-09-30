@@ -9,7 +9,9 @@ var emojiDictionary = {
   "❤️": "Love",
   "😑": "Annoyance",
   "🐕": "Dog",
-  "🐈": "Cat"
+  "🐈": "Cat",
+  "🤑":"Money-Mouth Face",
+  "🤗": "Hugging Face"
 };
 
 export default function App() {
